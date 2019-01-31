@@ -6,7 +6,7 @@ JBC make great soldering irons such as the T-245 that allow for quick swap tips 
 
 **Features**
 
-- Fully Open Source - Firmware, Hardware, Software and 3D models available 
+- Fully Open Source
 - PID Temperature Control
 - Powered from a 5-19VDC power source (eg, 120W 18V laptop supply or 18V 18650 battery pack - not supplied)
 - Small and Lightweight - (70mm x 30mm @ 20g)
