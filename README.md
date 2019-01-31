@@ -19,3 +19,8 @@ JBC make great soldering irons such as the T-245 that allow for quick swap tips 
 11. Enclosure 3D model available for printing.
 
 Etna - let the solder flow ;) 
+
+**Links**
+
+- [T245 Handles](https://www.jbctools.com/t245-a-general-purpose-handle-product-45-category-5-menu-70.html) 
+- [Power Supply](https://www.amazon.co.uk/dp/B01DIY8OTI) - (I modified the jack)
