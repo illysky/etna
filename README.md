@@ -6,17 +6,17 @@ JBC make great soldering irons such as the T-245 that allow for quick swap tips 
 
 **Features**
 
-1. Fully Open Source - Firmware, Hardware, Software and 3D models available. 
-2. PID Temperature Control.
-3. Powered from a 5-19VDC power source (eg, 120W 18V laptop supply or 18V 18650 battery pack - not supplied).
-4. Small and Lightweight - (70mm x 30mm @ 20g).
-5. Bluetooth LE (Configurable with app- Coming Soon!).
-6. 1.5" OLED Display with buttons and sounder.
-7. Power monitoring with overcurrent protection.
-8. Sleep function via grounding the cradle detect.
-9. ST Micro VN5E010AH 10mR high-side driver for cool operation.
-10. Firmware can be adapted for other soldering irons by adjusting thermocouple lookup tables.
-11. Enclosure 3D model available for printing.
+- Fully Open Source - Firmware, Hardware, Software and 3D models available. 
+- PID Temperature Control.
+- Powered from a 5-19VDC power source (eg, 120W 18V laptop supply or 18V 18650 battery pack - not supplied).
+- Small and Lightweight - (70mm x 30mm @ 20g).
+- Bluetooth LE (Configurable with app- Coming Soon!).
+- 1.5" OLED Display with buttons and sounder.
+- Power monitoring with overcurrent protection.
+- Sleep function via grounding the cradle detect.
+- ST Micro VN5E010AH 10mR high-side driver for cool operation.
+- Firmware can be adapted for other soldering irons by adjusting thermocouple lookup tables.
+- Enclosure 3D model available for printing.
 
 Etna - let the solder flow ;) 
 
