@@ -1,5 +1,7 @@
 **Etna - 120W DC Soldering Controller for JBC T245 Soldering Handles with PID Control and Bluetooth LE**
 
+![Alt text](board-image.png?raw=true "Title")
+
 Etna is a open source soldering iron controller for the JBC T245 type soldering handles with PID Control, Bluetooth LE and OLED - all powered from a variable DC source. 
 
 JBC make great soldering irons such as the T-245 that allow for quick swap tips with an integrated thermocouple for fantastic temperature response. However, I needed the controller to be portable - ie, small, lightweight and run from a DC source such as a laptop supply or a battery pack. Secondly, I found the JBC controllers to be expensive despite all magic being in their lower cost handles.
