@@ -26,3 +26,6 @@ Etna - let the solder flow ;)
 
 - [T245 Handles](https://www.jbctools.com/t245-a-general-purpose-handle-product-45-category-5-menu-70.html) 
 - [Power Supply](https://www.amazon.co.uk/dp/B01DIY8OTI)
+
+
+Available on Tindie Soon!
