@@ -1,4 +1,4 @@
-**Etna - 120W DC Soldering Controller for JBC T245 Soldering Handles with PID Control and Bluetooth LE**
+**Etna - 120W DC Soldering Controller for JBC T245 Soldering Handles with PID Control, OLED, and Bluetooth LE**
 
 ![Alt text](board-iso.png?raw=true "Title")
 
