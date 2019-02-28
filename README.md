@@ -29,3 +29,6 @@ Etna - let the solder flow ;)
 
 
 Available on Tindie Soon!
+
+**Thanks*** 
+Thank you to @timothyjager for inspiring me to use the VN5E010AH and ADS1114.  
