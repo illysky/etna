@@ -30,5 +30,5 @@ Etna - let the solder flow ;)
 
 Available on Tindie Soon!
 
-**Thanks**
-Thank you to @timothyjager for inspiring me to use the VN5E010AH and ADS1114.  
+**Thanks**  
+Thank you to [@timothyjager](https://github.com/timothyjager/JBC-Soldering-Controller) for inspiring me to use the VN5E010AH and ADS1114.  
