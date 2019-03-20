@@ -178,20 +178,20 @@ DocumentPath=tmp\Design Rule Check - etna-pcb-main.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=project_rev
-Value=v1.0.0
+Name=project_client
+Value=Illysky
 
 [Parameter2]
-Name=project_output
-Value=etna-hw
-
-[Parameter3]
 Name=project_name
 Value=Etna
 
+[Parameter3]
+Name=project_output
+Value=etna-hw
+
 [Parameter4]
-Name=project_client
-Value=Illysky
+Name=project_rev
+Value=v1.0.0
 
 [Configuration1]
 Name=Default Configuration

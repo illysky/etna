@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:53:50 On 11/03/2019
+
+Output: bom
+Type  : BOM
+From  : Variant [[No Variations]] of Project [etna.PrjPCB]
+   Generated File[bom-etna.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:53:53 On 11/03/2019

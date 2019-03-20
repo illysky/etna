@@ -1,0 +1,17 @@
+[HoleList]
+0=78740
+1=118110
+31=354331
+32=354331
+33=354331
+34=354331
+35=393701
+36=629921
+37=1259843
+38=393701
+39=393701
+[LayerDirections]
+TopLayer=horizontal
+MidLayer1=vertical
+MidLayer2=horizontal
+BottomLayer=vertical
