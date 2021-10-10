@@ -1,0 +1,81 @@
+{
+    "configurations": [
+        {
+            "name": "macOS",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${env:GCC_PATH}/arm-none-eabi/include",
+                "${env:NRF_PATH}/modules/**",
+                "${env:NRF_PATH}/components/**",
+                "${env:NRF_PATH}/external/**",
+                "${env:NRF_PATH}/integration/**"
+            ],
+            "defines": [
+                "BOARD_PCA10040",
+                "CONFIG_GPIO_AS_PINRESET",
+                "INITIALIZE_USER_SECTIONS",
+                "FLOAT_ABI_HARD",
+                "NRF52",
+                "NRF52838_XXAA",
+                "NRF_SD_BLE_API_VERSION=6",
+                "S132",
+                "SOFTDEVICE_PRESENT",
+                "SWI_DISABLE0"
+            ],
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "compilerPath": "${env:GCC_PATH}/gcc-arm-none-eabi-10-2020-q4-major/bin/arm-none-eabi-gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**",
+                    "${workspaceFolder}/src/**",
+                    "${env:GCC_PATH}/arm-none-eabi/include",
+                    "${env:NRF_PATH}/modules/**",
+                    "${env:NRF_PATH}/components/**",
+                    "${env:NRF_PATH}/external/**",
+                    "${env:NRF_PATH}/integration/**"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+              }
+        }, 
+        {
+            "name": "Ubuntu",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${env:GCC_PATH}/gcc-arm-none-eabi-10-2020-q4-major/bin/arm-none-eabi/include",
+                "${env:NRF_PATH}/v17.0/modules/**",
+                "${env:NRF_PATH}/v17.0/external/**",
+                "${env:NRF_PATH}/v17.0/components/**",
+                "${env:NRF_PATH}/v17.0/integration/**"
+            ],
+            "defines": [
+            ],
+            "compilerPath": "${env:GCC_PATH}/gcc-arm-none-eabi-10-2020-q4-major/bin/arm-none-eabi-gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**",
+                    "${workspaceFolder}/src/**",
+                    "${env:GCC_PATH}/gcc-arm-none-eabi-7-2018-q2-update/bin/arm-none-eabi/include",
+                    "${env:NRF_PATH}/v17.0/modules/**",
+                    "${env:NRF_PATH}/v17.0/external/**",
+                    "${env:NRF_PATH}/v17.0/components/**",
+                    "${env:NRF_PATH}/v17.0/integration/**"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+              }
+        }
+
+    ],
+    "version": 4
+}
+
