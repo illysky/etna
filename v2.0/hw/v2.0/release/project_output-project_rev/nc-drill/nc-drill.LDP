@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\illysky\etna2\etna\src\etna-main-panel.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=nc-drill-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=nc-drill-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

@@ -1,0 +1,13 @@
+Output: nc-drill
+Type  : NC Drill
+From  : PCB Document [etna-main-panel.PcbDoc]
+   Generated File[nc-drill-RoundHoles.TXT]
+   Generated File[nc-drill-SlotHoles.TXT]
+   Generated File[nc-drill.LDP]
+   Generated File[nc-drill.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 19:47:54 On 25/08/2021
